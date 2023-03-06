@@ -1,0 +1,378 @@
+Brokered by Advance 1 Real Estate  Stockton, CA 95205
+ Location : 2824 McComb Ave, Stockton, CA 95205
+ Price : $149,000
+ Status : For Sale
+ bed : 2
+ bath : 1.5
+ sqft : 1,140
+ sqft lot : 0.26
+
+Brokered by Integrity Real Estate Center  Stockton, CA 95212
+ Location : 4900 N State Route 99 E Frontage Rd, Stockton, CA 95212
+ Price : $152,000
+ Status : For Sale
+ bed : 4
+ bath : 2
+ sqft : 1,500
+ sqft lot : 3,001
+
+Brokered by Team 1 Realty 
+ Location : 
+ Price : $128,888
+ Status : For Sale
+ bed : 2
+ bath : 1
+ sqft : 900
+ sqft lot : 5,998
+
+Brokered by RE MAX Grupe Gold  Stockton, CA 95204
+ Location : 2020 Country Club Blvd, Stockton, CA 95204
+ Price : $400,000
+ Status : Pending
+ bed : 4
+ bath : 2.5
+ sqft : 2,935
+ sqft lot : 0.48
+
+Brokered by EXIT REALTY CONSULTANTS  Stockton, CA 95203
+ Location : 1624 Picardy Dr, Stockton, CA 95203
+ Price : $230,000
+ Status : Pending
+ bed : 3
+ bath : 1
+ sqft : 1,323
+ sqft lot : 4,800
+
+Brokered by RE MAX Gold  Stockton, CA 95210
+ Location : 529 Tule Spring St, Stockton, CA 95210
+ Price : $448,000
+ Status : For Sale
+ bed : 5
+ bath : 3
+ sqft : 2,366
+ sqft lot : 5,001
+
+Brokered by Republic Realty  Stockton, CA 95207
+ Location : 7720 Parkwoods Dr, Stockton, CA 95207
+ Price : $769,999
+ Status : For Sale
+ bed : 3
+ bath : 2.5
+ sqft : 2,666
+ sqft lot : 0.32
+
+Brokered by Belcher Real Estate, Inc.  Stockton, CA 95209
+ Location : 1924 Orvis Dr, Stockton, CA 95209
+ Price : $639,000
+ Status : Pending
+ bed : 4
+ bath : 3
+ sqft : 2,697
+ sqft lot : 0.26
+
+Brokered by CENTURY 21 Select Real Estate, Inc.  Stockton, CA 95210
+ Location : 6706 Tam Oshanter Unit 135, Stockton, CA 95210
+ Price : $69,950
+ Status : For Sale
+ bed : 2
+ bath : 1
+ sqft : 784
+ sqft lot : Not Specified
+
+Brokered by PMZ Real Estate - Stockton  Stockton, CA 95207
+ Location : 4479 Dorset St, Stockton, CA 95207
+ Price : $199,888
+ Status : For Sale
+ bed : 2
+ bath : 2
+ sqft : 948
+ sqft lot : 1,294
+
+Brokered by Team Jackson Real Estate Inc.  Stockton, CA 95209
+ Location : 10724 Waterbury Dr, Stockton, CA 95209
+ Price : $579,000
+ Status : For Sale
+ bed : 4
+ bath : 2
+ sqft : 2,505
+ sqft lot : 8,594
+
+Brokered by Basso & Assoc. Exchange Realty  Stockton, CA 95204
+ Location : 2731 Franklin Ave, Stockton, CA 95204
+ Price : $376,000
+ Status : For Sale
+ bed : 3
+ bath : 1
+ sqft : 1,109
+ sqft lot : 5,449
+
+Brokered by RE MAX Grupe Gold  Stockton, CA 95219
+ Location : 5738 Westchester Cir, Stockton, CA 95219
+ Price : $575,000
+ Status : For Sale
+ bed : 3
+ bath : 2
+ sqft : 1,907
+ sqft lot : 6,325
+
+Brokered by Integrity Real Estate Center  Stockton, CA 95203
+ Location : 1141 W Magnolia St, Stockton, CA 95203
+ Price : $329,000
+ Status : For Sale
+ bed : 2
+ bath : 1
+ sqft : 1,136
+ sqft lot : 5,049
+
+Brokered by RE MAX Grupe Gold  Stockton, CA 95204
+ Location : 157 W McKenzie Ave, Stockton, CA 95204
+ Price : $339,000
+ Status : For Sale
+ bed : 3
+ bath : 1
+ sqft : 1,014
+ sqft lot : 6,098
+
+Brokered by MLSListingsX  Stockton, CA 95202
+ Location : 920 E Market St, Stockton, CA 95202
+ Price : $649,000
+ Status : For Sale
+ bed : 5
+ bath : 6,417
+ sqft : 2,344
+ sqft lot : Not Specified
+
+Brokered by PMZ Real Estate - Stockton  Stockton, CA 95204
+ Location : 1531 W Mendocino Ave, Stockton, CA 95204
+ Price : $339,900
+ Status : Pending
+ bed : 3
+ bath : 1
+ sqft : 1,000
+ sqft lot : 0.23
+
+Brokered by Berkshire Hathaway HomeServices Drysdale Properties  Stockton, CA 95219
+ Location : 10341 Rubicon Ave, Stockton, CA 95219
+ Price : $525,000
+ Status : For Sale
+ bed : 4
+ bath : 2
+ sqft : 1,843
+ sqft lot : 7,725
+
+Brokered by RE MAX Grupe Gold  Stockton, CA 95207
+ Location : 5073 Gadwall Cir, Stockton, CA 95207
+ Price : $850,000
+ Status : For Sale
+ bed : 6
+ bath : 4.5
+ sqft : 3,377
+ sqft lot : 0.28
+
+Brokered by Home Buyers Realty  Stockton, CA 95206
+ Location : 2115 Scribner St, Stockton, CA 95206
+ Price : $244,000
+ Status : Pending
+ bed : 2
+ bath : 1
+ sqft : 893
+ sqft lot : 5,049
+
+Brokered by RE MAX Executive  Stockton, CA 95206
+ Location : 550 Kolher St, Stockton, CA 95206
+ Price : $329,000
+ Status : Foreclosure
+ bed : 4
+ bath : 1
+ sqft : 1,158
+ sqft lot : 5,611
+
+Brokered by Cornerstone Real Estate Group  Stockton, CA 95207
+ Location : 1345 Meadow Ave, Stockton, CA 95207
+ Price : $425,000
+ Status : For Sale
+ bed : 2
+ bath : 1.5
+ sqft : 1,098
+ sqft lot : 0.24
+
+Brokered by Keller Williams Realty  Stockton, CA 95203
+ Location : 527 W Park St, Stockton, CA 95203
+ Price : $325,000
+ Status : For Sale
+ bed : 3
+ bath : 1.5
+ sqft : 1,520
+ sqft lot : 8,276
+
+Brokered by Realty1team  Stockton, CA 95219
+ Location : 6911 Annapolis Quay Cir, Stockton, CA 95219
+ Price : $389,000
+ Status : For Sale
+ bed : 3
+ bath : 2
+ sqft : 1,222
+ sqft lot : 5,101
+
+Brokered by Cornerstone Real Estate Group  Stockton, CA 95207
+ Location : 4403 Calandria St Apt 3, Stockton, CA 95207
+ Price : $140,000
+ Status : Pending
+ bed : 2
+ bath : 1
+ sqft : 840
+ sqft lot : 436
+
+Brokered by Riggs & Associates, Inc.  Stockton, CA 95209
+ Location : 10121 Nations Ct, Stockton, CA 95209
+ Price : $799,000
+ Status : For Sale
+ bed : 4
+ bath : 3.5
+ sqft : 2,933
+ sqft lot : 0.38
+
+Brokered by Cornerstone Real Estate Group  Stockton, CA 95207
+ Location : 7028 Leesburg Pl, Stockton, CA 95207
+ Price : $499,999
+ Status : For Sale
+ bed : 4
+ bath : 2.5
+ sqft : 1,915
+ sqft lot : 9,200
+
+Brokered by eXp Realty of California Inc.  Stockton, CA 95206
+ Location : 542 E Anderson St, Stockton, CA 95206
+ Price : $249,999
+ Status : For Sale
+ bed : 2
+ bath : 1
+ sqft : 742
+ sqft lot : 5,001
+
+Brokered by Integrity Real Estate Center  Stockton, CA 95215
+ Location : 3822 Tina Pl, Stockton, CA 95215
+ Price : $749,999
+ Status : For Sale
+ bed : 4
+ bath : 3
+ sqft : 2,527
+ sqft lot : 0.69
+
+Brokered by eXp Realty of California Inc.  Stockton, CA 95204
+ Location : 4001 Alvarado Ave, Stockton, CA 95204
+ Price : $330,000
+ Status : Contingent
+ bed : 3
+ bath : 1
+ sqft : 1,280
+ sqft lot : 0.42
+
+Brokered by Missouri Development  Stockton, CA 95215
+ Location : 7310 Amerigo Rd, Stockton, CA 95215
+ Price : $875,000
+ Status : For Sale
+ bed : 4
+ bath : 2
+ sqft : 2,146
+ sqft lot : 1.42
+
+Brokered by Sereno  Stockton, CA 95215
+ Location : 637 S Walker Ln, Stockton, CA 95215
+ Price : $225,000
+ Status : For Sale
+ bed : 2
+ bath : 1
+ sqft : 946
+ sqft lot : 5,400
+
+Brokered by Cornerstone Real Estate Group  Stockton, CA 95219
+ Location : 3768 W Benjamin Holt Dr Apt 12, Stockton, CA 95219
+ Price : $284,950
+ Status : Pending
+ bed : 2
+ bath : 1
+ sqft : 1,001
+ sqft lot : 1.51
+
+Brokered by Integrity Real Estate Center  Stockton, CA 95215
+ Location : 5939 E Highway 26, Stockton, CA 95215
+ Price : $548,888
+ Status : Pending
+ bed : 3
+ bath : 2
+ sqft : 1,872
+ sqft lot : 0.4
+
+Brokered by Werner Properties  Stockton, CA 95209
+ Location : 2984 Old Ranch Cir, Stockton, CA 95209
+ Price : $429,000
+ Status : For Sale
+ bed : 3
+ bath : 2
+ sqft : 1,503
+ sqft lot : 6,094
+
+Brokered by Keller Williams Realty  Stockton, CA 95212
+ Location : 10268 Garnet Ave, Stockton, CA 95212
+ Price : $315,000
+ Status : Foreclosure
+ bed : 3
+ bath : 1
+ sqft : 978
+ sqft lot : 0.25
+
+Brokered by Keller Williams Realty  Stockton, CA 95207
+ Location : 1707 W Swain Rd Apt 8, Stockton, CA 95207
+ Price : $220,000
+ Status : For Sale
+ bed : 2
+ bath : 1
+ sqft : 806
+ sqft lot : 388
+
+Brokered by COMPASS  Stockton, CA 95206
+ Location : 421 W 3rd St, Stockton, CA 95206
+ Price : $199,700
+ Status : For Sale
+ bed : 3
+ bath : 1
+ sqft : 1,130
+ sqft lot : 5,500
+
+Brokered by HomeSmart PV and Associates  Stockton, CA 95219
+ Location : 2930 Driftwood Pl Apt 90, Stockton, CA 95219
+ Price : $349,000
+ Status : For Sale
+ bed : 2
+ bath : 2
+ sqft : 1,356
+ sqft lot : 1,525
+
+Brokered by Real Estate Source Inc.  Stockton, CA 95204
+ Location : 21 E Fargo St, Stockton, CA 95204
+ Price : $279,900
+ Status : Foreclosure
+ bed : 2
+ bath : 2
+ sqft : 1,318
+ sqft lot : 5,700
+
+Brokered by Rosson Real Estate & Prop. Mng  Stockton, CA 95204
+ Location : 1505 N Baker St, Stockton, CA 95204
+ Price : $395,000
+ Status : Pending
+ bed : 3
+ bath : 1.5
+ sqft : 1,865
+ sqft lot : 5,001
+
+Brokered by RE/MAX Grupe Gold  Stockton, CA 95209
+ Location : 9850 Cobblestone Dr, Stockton, CA 95209
+ Price : $462,500
+ Status : For Sale
+ bed : 3
+ bath : 2
+ sqft : 1,644
+ sqft lot : 6,504
+
